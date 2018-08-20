@@ -1,1 +1,1 @@
-# Sample Movie App created in javascript using axios 
+# Sample Movie App created using  javascript and axios (https://github.com/axios/axios)
